@@ -13,7 +13,7 @@ You can also authorize me to download private posts.
 
 Use below buttons to learn more.
 
-By @TheBotsWorldachanne
+By @TheBotsWorldachannel
     """
 
     # Home Button
