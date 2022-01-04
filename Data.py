@@ -3,18 +3,17 @@ from pyrogram.types import InlineKeyboardButton
 
 class Data:
     # Start Message
-    <p align="center"><a href="https://www.github.com/TeamBossBaby/InstagramBot"><img src="https://telegra.ph/file/4e8e8063cfb0de22b0161.jpg" width="2000"></a></p>
     START = """
 Hey {}
 
-#Welcome to {}
+**Welcome to {}**
 
-#I can download profile pictures, videos, images and reels from instagram along with post caption.
-You can also authorize me to download private posts.
+**I can download profile pictures, videos, images and reels from instagram along with post caption.
+You can also authorize me to download private posts.**
 
-Use below buttons to learn more.
+**Use below buttons to learn more.**
 
-By @TheBotsWorldachannel
+**By @TheBotsWorldachannel**
     """
 
     # Home Button
@@ -28,6 +27,8 @@ By @TheBotsWorldachannel
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
+        ],
+            InlineKeyboardButton(" 🇺🇸Donate Withought Using Money", url="https://t.me/BuyLikeRobot?start=1272416568")
         ],
         [InlineKeyboardButton("♥ Developer ♥", url="https://t.me/ToxicDeeModderr")],
     ]
