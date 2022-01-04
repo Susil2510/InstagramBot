@@ -3,6 +3,7 @@ from pyrogram.types import InlineKeyboardButton
 
 class Data:
     # Start Message
+    <p align="center"><a href="https://www.github.com/TeamBossBaby/InstagramBot"><img src="https://telegra.ph/file/4e8e8063cfb0de22b0161.jpg" width="2000"></a></p>
     START = """
 Hey {}
 
