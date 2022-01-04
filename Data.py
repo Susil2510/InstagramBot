@@ -26,8 +26,7 @@ You can also authorize me to download private posts.**
         [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/TheBotsWorldChannel")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("🎪 About 🎪", callback_data="about")
-        ],
+            InlineKeyboardButton("🎪 About 🎪", callback_data="about"),
             InlineKeyboardButton(" 🇺🇸Donate Withought Using Money", url="https://t.me/BuyLikeRobot?start=1272416568")
         ],
         [InlineKeyboardButton("♥ Developer ♥", url="https://t.me/ToxicDeeModderr")],
